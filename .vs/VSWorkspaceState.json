@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\EmpManagementUI",
+    "\\src\\EmpManagementUI\\src",
+    "\\src\\EmpManagementUI\\src\\app",
+    "\\src\\EmpManagementUI\\src\\app\\Emp",
+    "\\src\\EmpManagementUI\\src\\app\\Emp\\employee-master",
+    "\\src\\EmpManagementUI\\src\\app\\Models"
+  ],
+  "SelectedNode": "\\src\\EmpManagementUI\\src\\app\\Emp\\employee-master\\employee-master.component.ts",
+  "PreviewInSolutionExplorer": false
+}
